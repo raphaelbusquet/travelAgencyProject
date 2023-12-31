@@ -10,6 +10,10 @@ const config: Config = {
     extend: {
       width:{
         maxW:"1036px"
+      },
+      colors: {
+        "color-primary": "#14183E", 
+        "color-secondary": "#212832",
       }
     },
   },
