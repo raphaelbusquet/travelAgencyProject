@@ -2,8 +2,8 @@ import Image from "next/image"
 import Link from "next/link"
 
 // Assets
-import Logo from "/public/logo.svg"
-import Arrow from "/public/arrow-down.svg"
+import Logo from "/public//images/logo.svg"
+import Arrow from "/public/images/arrow-down.svg"
 
 // Components
 import MaxContainer from "./max-width-container"
